@@ -6,6 +6,8 @@ A set of scripts to automate Task Juggler's installation, and make it simple for
 
 - Ruby (taskjuggler's dependency)
 - taskjuggler (global installation using 'gem' command)
+- Ruby Gems 
+
 
 ### Features
 
